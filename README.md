@@ -1,7 +1,7 @@
 # 🧠 Clasificación de Imágenes con Deep Learning: Bart vs Homero
 
 Este proyecto tiene como objetivo desarrollar y evaluar modelos de *deep learning* para la clasificación de imágenes de personajes de la serie *The Simpsons*, específicamente **Bart Simpson** y **Homero Simpson**.
-
+El dataset puede encontrarse alojado en Kaggle en el siguiente enlace: https://www.kaggle.com/datasets/juniorbueno/neural-networks-homer-and-bart-classification
 ---
 
 ## 📌 Descripción del problema
