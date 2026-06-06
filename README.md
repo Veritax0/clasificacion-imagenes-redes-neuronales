@@ -5,6 +5,9 @@ Este proyecto tiene como objetivo desarrollar y evaluar modelos de *deep learnin
 El dataset puede encontrarse alojado en Kaggle en el siguiente enlace:
 🔗 [Homer & Bart Classification — Kaggle](https://www.kaggle.com/datasets/juniorbueno/neural-networks-homer-and-bart-classification)
 
+## 🎬 Video de presentación
+
+▶️ **[Enlace al video en YouTube](https://youtu.be/txmMNbnSpDE)**
 ---
 
 ## 📌 Descripción del problema
@@ -130,7 +133,6 @@ El análisis **Grad-CAM** confirma que el modelo focaliza su atención en las ca
 
 ▶️ **[Enlace al video en YouTube](https://youtu.be/txmMNbnSpDE)**
 
-> *Sustituir `#` por el enlace real una vez subido el video.*
 
 ---
 
