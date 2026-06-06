@@ -128,7 +128,7 @@ El análisis **Grad-CAM** confirma que el modelo focaliza su atención en las ca
 
 ## 🎬 Video de presentación
 
-▶️ **[Enlace al video en YouTube](#)**
+▶️ **[Enlace al video en YouTube](https://youtu.be/txmMNbnSpDE)**
 
 > *Sustituir `#` por el enlace real una vez subido el video.*
 
